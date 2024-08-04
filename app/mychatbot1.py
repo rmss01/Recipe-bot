@@ -22,7 +22,7 @@ from langchain.output_parsers import CommaSeparatedListOutputParser
 from typing import Dict, Any
 
 # API-KEY
-OPENAI_API_KEY = 'sk-proj-fVa2Aa59aawBRrcURT7ET3BlbkFJgWTGh5KHYjxliE4DdnZX'
+OPENAI_API_KEY = ''
 
 # Set the API key in the system environment variables
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
